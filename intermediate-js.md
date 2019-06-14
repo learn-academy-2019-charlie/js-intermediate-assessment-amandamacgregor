@@ -64,10 +64,10 @@ JavaScript depends on there being only one page element with any particular id
 
 4. Name 4 semantic HTML tags.
 
-<header>
-<footer>
-<main>
-<nav>
+header
+footer
+main
+nav
 
 5. What are three options for creating responsive design?
 
