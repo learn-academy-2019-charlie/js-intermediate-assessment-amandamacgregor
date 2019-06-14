@@ -40,7 +40,7 @@ countL = (str, letter) => {
  var letters = 0;
  var newStr = str.toLowerCase()
  for (let i = 0; i < str.length; i++) {
-    if (newStr.charAt(i) == letter) {
+    if (newStr.charAt(i) === letter) {
       letters += 1;
       }
   }
